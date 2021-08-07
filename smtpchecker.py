@@ -55,7 +55,7 @@ class bcolors:
 VALIDS = 0
 INVALIDS = 0
 
-toaddr = "tuxmacgiv991@yahoo.com" #paste your mail
+toaddr = "nawayvan@hotmail.com" #paste your mail
 
 
 def check(smtp):
